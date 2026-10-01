@@ -23,7 +23,7 @@ class Hunter:
         self.location = "Sri Ganganagar, Rajasthan, India 🇮🇳"
         self.education = {
             "degree": "Bachelor of Computer Applications (BCA)",
-            "year": "2nd Year",
+            "year": "3rd Year",
             "university": "Maharaja Ganga Singh University, Bikaner",
             "graduation": 2027
         }
@@ -183,6 +183,12 @@ Collection of SOC analyst automation scripts
 ---
 
 ## 🎓 Certifications & Learning Path
+
+### ✅ INTERNSHIP
+- 🟢 **Amroha Police Cyber Security Internship -2026**  
+    -- LERAN > MALWARE ANALYSIS
+             >OSINT SKILLS
+             > CYBER CRIME INVESTIGATIONS 
 
 ### ✅ Completed
 - 🟢 **TryHackMe** - Pre-Security Path
